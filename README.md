@@ -339,6 +339,7 @@
    
    - Adding webhook to github repository
      - Payload url: http://<jenkins-public-ip>:8080/github-webhook/
+   
      ![image](https://user-images.githubusercontent.com/92631457/186559441-e6039c81-f05a-457d-8aa4-fbbc1e752f8d.png)
 
      
