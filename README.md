@@ -343,6 +343,7 @@
 
      
      - Enable 'Github hook trigger for GIT SCM polling in Jenkins project
+   
      ![image](https://user-images.githubusercontent.com/92631457/186559277-1f94d3af-98b8-4365-b6c1-ca9ecae0c720.png)
 
    
