@@ -1,6 +1,6 @@
 ---
 - hosts: all
-
+  become: yes
   tasks:
 
     - name: create docker image using war file
